@@ -2,7 +2,9 @@
 title: Translation by Mariam Low-Ghelaghutashvili
 ---
 <p>Text 1:
+  
 Opa Knut startet durch
+
 „Hallo Christian, hast du schon das Neueste gehört? Opa Knut will sich für die kommende Europawahl
 aufstellen lassen!“
 
@@ -51,7 +53,9 @@ die Leute bringt.“
   </p>
 </p>
 <p>Text 2:
+  
 A dialogue
+
 AI - ‘Aye, aye’ or ‘My eye!’
 
 Jo: There’s no need to learn foreign languages any more. Thanks to AI, you speak into your
