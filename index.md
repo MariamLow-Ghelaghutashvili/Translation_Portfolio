@@ -107,6 +107,6 @@ J: You’re on! And if the waiters don’t give us free biscuits, I’ll 3D prin
   <p>Language Pair 3:</p>
 </p>
 <p>Text 4:
-  <img src="https://github.com/user-attachments/assets/3f84a477-34a9-4993-9efd-17f1304d4e1c">
+  <img src="https://www.language-museum.com/encyclopedia/g/georgian.gif">
 </p>
 
